@@ -1,6 +1,5 @@
 # 💸 No trust fund, just a trusty GTX 1060 – Diciembre 2025
 
-<img src="foto.png" alt="Foto de mi montaje" width="450" />
 
 ## 🧠 Componentes
 - **Procesador**: AMD Ryzen 5 5500  
@@ -11,6 +10,8 @@
 - **Disipador CPU**: Aigo (de AliExpress)  
 - **Ventilador adicional**: Aigo (de AliExpress)  
 - **Caja**: Nox Xtreme Blanca 
+
+<img src="foto.png" alt="Foto de mi montaje" width="450" />
 
 ## 🎮 Propósito principal
 Este equipo está pensado **sobre todo para jugar**.  
